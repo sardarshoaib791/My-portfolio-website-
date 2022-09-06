@@ -10,7 +10,7 @@ export default function Post() {
                 <span className="postCat">Life</span>
             </div>
             <span className="postTitle">
-                Lorem ipsum dolor sit amet 
+                Currently on working stage this website 
             </span>
             <hr />
             <span className="postDate">1 hours ago</span>
