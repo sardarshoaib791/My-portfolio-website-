@@ -7,7 +7,7 @@ export default function Post() {
         <div className="postInfo">
             <div className="postCats">
                 <span className="postCat">Quran</span>
-                <span className="postCat">Life</span>
+                <span className="postCat">Lifee</span>
             </div>
             <span className="postTitle">
                 Currently on working stage this website. 
