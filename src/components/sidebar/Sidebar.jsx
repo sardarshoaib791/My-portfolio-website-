@@ -17,7 +17,7 @@ export default function Sidebar() {
             <li className="sidebarlistitem">Quran</li>
             <li className="sidebarlistitem">sports</li>
             <li className="sidebarlistitem">cricket</li>
-            <li className="sidebarlistitem">tec</li>
+            <li className="sidebarlistitem">tech</li>
 
         </ul>
         </div>
